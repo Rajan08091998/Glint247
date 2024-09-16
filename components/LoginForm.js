@@ -102,7 +102,7 @@ export default function LoginForm() {
                 </button>
 
                 <p className="text-sm text-gray-600 text-center mb-4">
-                    By continuing, you agree to Glint 247's <a href="#" className="text-orange-500 hover:text-orange-600">user agreement</a> and <a href="#" className="text-orange-500 hover:text-orange-600">privacy policy</a>.
+                    By continuing, you agree to Glint 247&apos;s <a href="#" className="text-orange-500 hover:text-orange-600">user agreement</a> and <a href="#" className="text-orange-500 hover:text-orange-600">privacy policy</a>.
                 </p>
 
                 <div className="text-center">
